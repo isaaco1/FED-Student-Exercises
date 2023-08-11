@@ -16,8 +16,6 @@ When you have forked and cloned the repo delete all the text from lines 19 and u
 
 It's ok, don't panic, follow the [git guide](https://github.com/Purple-Beard/FED-Student-Exercises/blob/main/GIT_GUIDE.md) or ask for help from your trainer.
 
----
-
 # 🚀 Frontend Development with Purple Beard
 
 ## Info
